@@ -1,4 +1,4 @@
-# MRBS — Machine-Readable Brand System
+# MRBS — Machine-Readable Brand System | Brand as Code [BAC]
 
 <p align="center">
   <strong>Making brand identity accessible to AI agents.</strong>
